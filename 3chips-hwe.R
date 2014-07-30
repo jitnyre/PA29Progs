@@ -182,3 +182,4 @@ write.table(hlat1, "hwe_lat_only.txt", row.names = FALSE, col.names = FALSE, quo
 
 
 #write.table(maf, "maf.txt", row.names = FALSE, quote = FALSE, col.names = FALSE)
+#
